@@ -57,20 +57,3 @@ Tilanne nyt: kohta 1 ei täyty, joten versiot ovat alphaa.
 |---|---|
 | V0.2.0–V0.22.0 | Toimitettuja tiedostoja ei ole. Välivaiheet löytyvät kansiosta `valivaiheet/`, mutta niitä ei voi varmasti yhdistää yksittäisiin versioihin. |
 | V0.23.0–V0.27.0 | Tiedostokopioita ei ole. Muutokset on kuvattu yllä. |
-
-## Kansiorakenne
-
-```text
-wilma-kurssit-kaikki-versiot/
-├── README.md                  ← tämä tiedosto
-├── V0.1.0-alkuperainen/       ← alkuperäinen Wilma Enhancer (mini)
-├── versiot/                   ← tarkat kopiot versioista 0.28.0–0.32.1
-│   ├── V0.28.0/
-│   ├── V0.29.0/               ← skripti + Chrome-laajennuksen zip
-│   └── …
-└── valivaiheet/               ← kehityksen välitilat
-    └── SISALTO.md             ← taulukko, mikä kukin tiedosto on
-```
-
-- **`versiot/`**: versioista 0.29.0 alkaen mukana on myös Chrome-laajennuksen zip. Popup- ja background-tiedostot ovat kaikissa versioissa samat.
-- **`valivaiheet/`**: tiedostot ovat aikajärjestyksessä. Numero kertoo järjestyksen, ja `SISALTO.md` kertoo, mitä kukin tiedosto on. Identtiset kopiot on poistettu.
