@@ -51,9 +51,9 @@ Tilanne nyt: kohta 1 ei täyty, joten versiot ovat alphaa.
 
 **Huomio numeroista.** Versiot 0.29.1 ja 0.30.1 numeroitiin ennen tätä sääntöä. Ne ovat pieniä parannuksia tai uusia ominaisuuksia, mutta numero päättyy korjausluvulle. Numerot on pidetty ennallaan, koska versioita on jo jaettu.
 
-## Mitä ei ole tallessa
+## Välivaiheita
 
-| Versiot | Syy |
+| Numero | Syy |
 |---|---|
 | V0.2.0–V0.22.0 | Toimitettuja tiedostoja ei ole. Välivaiheet löytyvät kansiosta `valivaiheet/`, mutta niitä ei voi varmasti yhdistää yksittäisiin versioihin. |
 | V0.23.0–V0.27.0 | Tiedostokopioita ei ole. Muutokset on kuvattu yllä. |
