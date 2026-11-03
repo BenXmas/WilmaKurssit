@@ -102,13 +102,13 @@ Ponnahdusikkunan alareunassa näkyy versio ja tekijät.
 
 ### 1. Oppilaitokset ja periodit
 
-- **Lukuvuosi:** valitse vuosi ja koulu pudotusvalikosta.
-- **Hae uudelleen:** lataa lukuvuodet ja jaksot Wilmasta uudelleen.
+- **Lukuvuosi:** valitse vuosi ja oppilaitos pudotusvalikosta.
+- **Hae uudelleen:** lataa lukuvuodet ja periodit Wilmasta uudelleen.
 - **Jaksot:** ruksatut jaksot ovat niitä, joista kursseja etsitään.
 
 ### 2. Vuositaso
 
-Vuositaso harmaannuttaa ne kurssit, jotka kuuluvat myöhemmälle vuodelle.
+Vuositason valinta harmaannuttaa ne kurssit, jotka kuuluvat myöhemmälle vuodelle.
 
 | Valinta | Mitä tapahtuu |
 |---|---|
