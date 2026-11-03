@@ -356,7 +356,7 @@ Kun ilmoitat ongelmasta, liitä **Vianetsintätiedot**. Tarkista se ennen jakami
 
 ## 🏷 Versiohistoria
 
-Versioiden puutteellinen kokoelma (0.1.0-0.32.1 Prerelease/Alpha) on erillisessä kansiossa. Tässä tärkeimmät vaiheet:
+Versioiden puutteellinen kokoelma (0.1.0-0.32.1 Prerelease/Alpha) on erillisessä kansiossa (Välivaiheet) käytä kansion tulkintaan SISALTO.md tekstitiedostoa. Tässä tärkeimmät vaiheet:
 
 | Versio | Muutos |
 |---|---|
