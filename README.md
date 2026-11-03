@@ -429,7 +429,7 @@ Vienti-välilehdellä) ja liitä raportti kehittäjälle.
 
 | Versio | Muutos |
 |---|---|
-| **1.0.0** | Ensimmäinen Release. Testattu oikeassa Wilmassa. Versionumero ponnahdusikkunassa ja dashboardilla. Pitkä README. |
+| **1.0.0** | Ensimmäinen Release. Testattu oikeassa Wilmassa. Versionumero ponnahdusikkunassa ja dashboardilla. |
 | 0.32.1 | Vienti-välilehden napit ja selitteet näkyvät tummassa teemassa. |
 | 0.32.0 | PDF uudistettu: Inter-fontti, värit, yhteenvetolaatikot. Uusi Vienti-välilehti. CSV-vienti ja leikepöytäkopio. |
 | 0.31.0 | Kurssit jaettu tyypeittäin omiin valikkoihin. PDF-vienti. |
@@ -473,7 +473,7 @@ Vienti-välilehdellä) ja liitä raportti kehittäjälle.
 Idea, vaatimukset, käyttöliittymän suunta, testaus oikeassa Wilmassa.
 
 **Claude (Anthropic)**
-Suunnittelu, koodi, testit ja dokumentaatio.
+Suunnittelu, koodi, ja dokumentaatio.
 
 ---
 
@@ -489,3 +489,4 @@ Suunnittelu, koodi, testit ja dokumentaatio.
 
 *Tämä työkalu ei ole Wilman tai sen kehittäjien virallinen tuote. Käyttö on
 omalla vastuulla.*
+*Tämä työkalu on vibekoodattu, jos on parannusehdotuksia tai bugireportteja, tee pull request*
