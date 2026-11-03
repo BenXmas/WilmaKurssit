@@ -100,7 +100,7 @@ Ponnahdusikkunan alareunassa näkyy versio ja tekijät.
 
 ## 🎯 Valinta
 
-### 1. Lukuvuosi ja jaksot
+### 1. Oppilaitokset ja periodit
 
 - **Lukuvuosi:** valitse vuosi ja koulu pudotusvalikosta.
 - **Hae uudelleen:** lataa lukuvuodet ja jaksot Wilmasta uudelleen.
@@ -118,7 +118,7 @@ Vuositaso harmaannuttaa ne kurssit, jotka kuuluvat myöhemmälle vuodelle.
 | 3️⃣ 3. vuosi | Samoin, vuoden 3 kurssien jälkeen. |
 
 > [!NOTE]
-> Vuosijako perustuu Tapiolan lukion ainevalintakorttiin 2026–2027. Harmaan kurssin voi silti valita.
+> Vuosijako perustuu Tapiolan lukion ainevalintakorttiin 2026–2027. Harmaan kurssin voi silti valita.(Muille oppilaitoksillekkin toimii, mutta Opintopistelaskuri voi olla epätarkka. Muista aina tarkistaa ettei ole päällekkäisyyksiä tai ettei toinen b periodin kurssi puutu.)
 
 ### 3. Kurssilista
 
