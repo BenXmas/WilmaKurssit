@@ -44,7 +44,7 @@ Työkalu on kahtena muotona:
 | Muoto | Milloin | Huomio |
 |---|---|---|
 | 🧩 **Chrome-laajennus** | Suositus | Latautuu aina itse. Osaa avata lisäikkunan silmukkaa varten. |
-| 📜 **Konsoliskripti** (`wilma-kurssit.js`) | Nopea kokeilu | Sama toiminto, mutta ei pysyvää asennusta. Tampermonkey toimii myös. |
+| 📜 **Konsoliskripti** (`WKU-v.X.X.X.js`) | Nopea kokeilu | Sama toiminto, mutta ei pysyvää asennusta. Periaatteessa tampermonkey skripti. |
 
 ---
 
