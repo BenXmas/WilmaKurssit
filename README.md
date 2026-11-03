@@ -52,8 +52,8 @@ Työkalu on kahtena muotona:
 
 ### Laajennus (suositus)
 
-1. Lataa `wilma-kurssit-extension.zip` ja pura se kansioon.
-2. Avaa Chrome ja mene osoitteeseen `chrome://extensions`.
+1. Lataa `WKU-vX.X.X.zip` ( https://github.com/BenXmas/WilmaKurssit/releases releases->uusin) ja pura se kansioon.
+2. Avaa Chrome ja mene osoitteeseen `chrome://extensions` tai Edge `edge://extensions`.
 3. Kytke **Kehittäjätila** päälle oikeasta yläkulmasta.
 4. Valitse **Lataa purettu laajennus** ja valitse purettu kansio.
 5. Avaa Wilma ja kirjaudu sisään. Paneeli ilmestyy sivun reunaan.
@@ -64,8 +64,8 @@ Työkalu on kahtena muotona:
 ### Konsoliskripti
 
 1. Avaa Wilma, paina `F12` ja valitse **Console**.
-2. Jos Chrome pyytää, kirjoita `allow pasting` ja paina Enter.
-3. Liitä `wilma-kurssit.js` konsoliin ja paina Enter.
+2. Jos Selain pyytää, kirjoita `allow pasting` ja paina Enter.
+3. Liitä `WKU-vX.X.X.js` konsoliin ja paina Enter.
 
 Konsoliin liitetty skripti katoaa sivun päivityksessä. Pysyvästi se toimii Tampermonkeyssa, koska tiedoston alussa on valmis userscript-otsake.
 
