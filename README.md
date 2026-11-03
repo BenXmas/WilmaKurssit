@@ -356,7 +356,7 @@ Kun ilmoitat ongelmasta, liitä **Vianetsintätiedot**. Tarkista se ennen jakami
 
 ## 🏷 Versiohistoria
 
-Versioiden täydellinen kokoelma on erillisessä kansiossa. Tässä tärkeimmät vaiheet:
+Versioiden puutteellinen kokoelma (0.1.0-0.32.1 Prerelease/Alpha) on erillisessä kansiossa. Tässä tärkeimmät vaiheet:
 
 | Versio | Muutos |
 |---|---|
@@ -375,9 +375,9 @@ Versio 1.0.0 on testattu oikeassa Wilmassa versiolla 0.32.1. Muutokset 1.0.0:aan
 
 | Rooli | Kuka |
 |---|---|
-| 💡 Idea, vaatimukset ja testaus oikeassa Wilmassa | **BenXmas** |
-| 🛠 Koodi ja dokumentaatio | **Claude (Anthropic)** |
+| 💡 Idea, debug ja testaus oikeassa Wilmassa | **BenXmas** |
+| 🛠 Koodi ja dokumentaatio | **Claude Sonnet 5.5 (Anthropic)** |
 
 ---
 
-<sub>Tehty kurssivalintaan. Palautteet ja bugiraportit ovat tervetulleita.</sub>
+<sub>Tehty kurssivalintaan. Palautteet ja bugiraportit ovat tervetulleita pull requesteina.</sub>
